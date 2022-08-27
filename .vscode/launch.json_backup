@@ -1,0 +1,10 @@
+{
+    "version":"0.2.0",
+    "configurations":[
+        {
+            "type":"coreclr",
+            "name":"launch - netcoredbg",
+            "program":"${workspaceFolder}/bin/Debug/net6.0/nvim-zombie-dice.dll"
+        }
+    ]
+}
